@@ -1,0 +1,92 @@
+/* NAV */
+.navbar-brand {
+    color: white;
+    margin: auto;
+}
+.nav-link {
+    color: white;
+    
+}
+
+
+
+
+/* MAIN */
+#quienesSomos {
+    background-color: black;
+    padding: 5%;
+}
+.nosotros {
+    background-color: aqua;
+    height: auto;
+}
+.parrafo {
+    text-align:left;
+    color: white;
+}
+h2 {
+    color: white;
+    padding-bottom: 2rem;
+
+}
+#destacados {
+    background-color: black;
+    padding: 5%;
+}
+.destacados img {
+    height: 100%;
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    display: block;
+    transition: all 0.2s ease;
+}
+.card-text {
+    background-color: aqua;
+    color: rgb(46, 7, 139);
+    text-align: center;
+    
+}
+#contacto {
+    background-color: black;
+    padding: 5%;
+}
+hr {
+    color: white;
+}
+.form-label {
+    color: white;
+}
+
+.btn {
+    background-color: aqua;
+}
+#footer {
+    background-color: aqua;
+}
+.iconos-redes-sociales a {
+    width: 30px;
+    height: 50px;
+    margin: 50px;
+    padding: 2px;
+    margin: 10px;
+    border-radius: 50px;
+    transition: all 0.25s ease-in;
+  }
+  .iconos-redes-sociales i {
+    color: white;
+    font-size: 1.5rem;
+    transition: all 0.2s ease-in;
+  
+  }
+  .iconos-redes-sociales a:hover {
+    background-color: white;
+    border: 2px solid rgb(247, 72, 8);
+  }
+  .iconos-redes-sociales a:hover i {
+    color: black;
+
+  }
+ 
+    
+
