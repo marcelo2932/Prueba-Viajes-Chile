@@ -7,9 +7,12 @@
     color: white;
     
 }
+/* CAROUSEL */
 
-
-
+#carouselExample .carousel-item {
+    width: 100%;
+    padding: 0;
+    }
 
 /* MAIN */
 #quienesSomos {

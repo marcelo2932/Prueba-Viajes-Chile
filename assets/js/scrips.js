@@ -10,3 +10,10 @@ if (toastTrigger) {
     toastBootstrap.show()
   })
 }
+
+$(function(){
+    $("#quienesSomos .nosotros").on("dblclick", function(){
+       $("#quienesSomos .parrafo").toggle("slow");
+
+    });
+})
