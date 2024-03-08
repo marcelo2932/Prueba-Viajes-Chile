@@ -64,29 +64,17 @@ hr {
 #footer {
     background-color: aqua;
 }
+.viajesChile {
+    height: 3rem;
+}
 .redes a {
-    width: 50px;
-    height: 50px;
-    margin: 50px;
+    width: 40px;
+    height: 40px;
     padding: 2px;
-    margin: 10px;
-    border-radius: 50px;
-    transition: all 0.25s ease-in;
-  }
-  .redes i {
+    border-radius: 20px;
+}
+.redes i {
     color: white;
     font-size: 2.5rem;
-    transition: all 0.2s ease-in;
-  
-  }
-  .iconos a:hover {
-    background-color: rgb(170, 125, 125);
-    border: 2px solid rgb(247, 72, 8);
-  }
-  .iconos-redes-sociales a:hover i {
-    color: black;
-
-  }
- 
-    
+}    
 
